@@ -9,7 +9,7 @@ To make the shield above, check out shields.io ![Static Badge](https://img.shiel
   - [ ] CSS
 
         
-👨‍💻:I want to be                                               
+👨‍💻:I AM INTERESTED IN                                         
 
 🥇: Ethical hacker
 
@@ -18,7 +18,7 @@ To make the shield above, check out shields.io ![Static Badge](https://img.shiel
 🥉: Cyber security
 
 
-💁: Information 
+💁: INFORMATION
 
 📈 I'm trending upwards
 
