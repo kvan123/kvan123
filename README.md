@@ -1,5 +1,5 @@
-# Hello 👋
- ![Static Badge](https://img.shields.io/badge/Kvan-blue)
+# WELCOME 👋
+ ![Static Badge](https://img.shields.io/badge/Kvan-blue)![Static Badge](https://img.shields.io/badge/Grade12-gray)
 
 To make the shield above, check out shields.io ![Static Badge](https://img.shields.io/badge/to%20make%20anything%20you%20would%20like!-8A2BE2)
 
